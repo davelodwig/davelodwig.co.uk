@@ -1,7 +1,6 @@
 ---
 title: home page
-taxonomy:
-    category: blog
+date: 2025-04-20
 ---
 
 some example texts
