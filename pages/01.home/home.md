@@ -1,5 +1,5 @@
 ---
-title: home page
+title: Homes
 date: 2025-04-20
 ---
 
