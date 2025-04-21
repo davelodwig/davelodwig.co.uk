@@ -3,7 +3,7 @@ title: "Lundy II"
 date: 2020-02-25
 categories: 
   - "journeys"
-coverImage: "2017-04-08-at-14-14-46-scaled.jpg"
+hero_image: "2017-04-08-at-14-14-46-scaled.jpg"
 ---
 
 When we visited Lundy for our honeymoon in 2015, we didn't think we be returning to the island for quite a long time. But due to a logistics issue with a planned trip to Scotland, we found ourselves heading back, but this time with a tent. We had originally planned on touring the Scottish small isles on our tandem but that plan required a larger car to transport it, and as we had started to buy a house I had held off car purchases. So with a week of annual leave coming up we browsed the Landmark trust site and booked a trip to Lundy to stay at the campsite.
