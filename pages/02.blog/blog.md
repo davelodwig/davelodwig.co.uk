@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-template: blog
+template: listing
 content:
   @taxonomy.category: blog
 ---
