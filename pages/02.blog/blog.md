@@ -1,5 +1,5 @@
 ---
 title: "Blog"
 content:
-  @taxonomy.category: blog
+  items: @self.children
 ---
