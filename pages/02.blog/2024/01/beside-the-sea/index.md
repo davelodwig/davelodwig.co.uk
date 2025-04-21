@@ -1,8 +1,8 @@
 ---
 title: "Beside the sea"
 date: 2024-01-27
-categories: 
-  - "photographs"
+taxonomy:
+  category: ['blog', 'photographs']
 coverImage: "000213040003-scaled.jpg"
 ---
 

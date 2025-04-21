@@ -2,5 +2,5 @@
 title: "Blog"
 template: blog
 content:
-  items: @self.children
+  @taxonomy.category: blog
 ---
