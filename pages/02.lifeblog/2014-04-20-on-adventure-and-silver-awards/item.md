@@ -11,19 +11,19 @@ This has it's drawbacks like when the Mayor thanked all the people on my list to
 
 But I thought it'd be nice to publish the transcript from the Chief Scout's Silver Awards presentations, a talk I gave on having an adventure.
 
-> It's been around 12 months since I stood here last congratulating the Chief Scoutâ€™s Silver award holders sat right where you are currently sat and like then Iâ€™m going to ask you to do the same thing I asked them.
+> It's been around 12 months since I stood here last congratulating the Chief Scout's Silver award holders sat right where you are currently sat and like then I'm going to ask you to do the same thing I asked them.
 > 
 > I'm going to ask you to have an adventure.
 > 
-> In these modern times itâ€™s far too easy to watch our heroes on TV and to pitch ourselves in feats of courage on a computer screen, or disappear in a world of cute cat pictures on Facebook.
+> In these modern times it's far too easy to watch our heroes on TV and to pitch ourselves in feats of courage on a computer screen, or disappear in a world of cute cat pictures on Facebook.
 > 
-> Helen Keller said that â€œLife is either a daring adventure or nothingâ€. Helen Keller was a deaf blind person born in 1880 who broke through the isolation imposed by what then was a near complete lack of language to become an author, a political campaigner and to earn a degree. When Helen talks of adventure she doesnâ€™t mean to be the fastest, or to climb the highest but to get the most that you can out of life.
+> Helen Keller said that "Life is either a daring adventure or nothing". Helen Keller was a deaf blind person born in 1880 who broke through the isolation imposed by what then was a near complete lack of language to become an author, a political campaigner and to earn a degree. When Helen talks of adventure she doesn't mean to be the fastest, or to climb the highest but to get the most that you can out of life.
 > 
-> When I ask you to have an adventure Iâ€™m not asking you all to become our Chief Scout Bear Grylis and perform amazing feats of survival and such Iâ€™m asking you to make the most of what you have to enjoy the time you have and to seize every day.
+> When I ask you to have an adventure I'm not asking you all to become our Chief Scout Bear Grylis and perform amazing feats of survival and such I'm asking you to make the most of what you have to enjoy the time you have and to seize every day.
 > 
-> Edmund Hillary the chap that was the first to summit Mt Everest wrote â€œYou donâ€™t have to be a hero to accomplish great thingsâ€¦ to compete. You can just be an ordinary person, sufficiently motivated to reach challenging goals.â€
+> Edmund Hillary the chap that was the first to summit Mt Everest wrote "You don't have to be a hero to accomplish great things; to compete. You can just be an ordinary person, sufficiently motivated to reach challenging goals."
 > 
-> Who decides whatâ€™s challenging?
+> Who decides what's challenging?
 > 
 > You do.
 > 
@@ -39,7 +39,7 @@ But I thought it'd be nice to publish the transcript from the Chief Scout's Silv
 > 
 > I'd like to leave you with one more thing taken from the book Peter Pan by JM Barrie. The scene is set in chapter 4 and the children have just arrived in never land and are flying with our hero Peter Pan.
 > 
-> Would you like an adventure now, Peter said casually to John, or would you like to have your tea first?â€
+> Would you like an adventure now, Peter said casually to John, or would you like to have your tea first?"
 > 
 > Ladies and gentlemen choose adventure, the tea can wait.
 > 

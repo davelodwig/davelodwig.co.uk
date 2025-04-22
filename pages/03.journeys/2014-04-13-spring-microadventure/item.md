@@ -4,7 +4,7 @@ date: 2014-04-13
 categories: 
   - "adventure"
   - "lifeblog"
-coverImage: "IMG_20140413_064620-900x6751.jpg"
+hero_image: "IMG_20140413_064620-900x6751.jpg"
 ---
 
 It had been awhile since we'd trundled off with hammocks and bicycles for a single night micro adventure under the stars and given that the weather forecast was looking goodÂ and the fact my roof rack complete with large desktop had launched itself from the roof of the car (while driving down the M5) on Friday nightÂ we decided a trip down the towpath was in order.

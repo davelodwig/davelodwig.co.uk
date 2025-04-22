@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2009-07-14
-coverImage: "1-IMG_4715-scaled.jpg"
+hero_image: "1-IMG_4715-scaled.jpg"
 ---
 
 Hi, i'm Dave Lodwig a Software Engineer based in Gloucestershire and this is my website where I write about the sometimes bizarre things I get myself involved in.
