@@ -1,6 +1,6 @@
 ---
 title: "Spring Microadventure"
-date: 2014-04-13
+date: 13-04-2014
 categories: 
   - "adventure"
   - "lifeblog"

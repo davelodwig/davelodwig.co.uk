@@ -1,6 +1,6 @@
 ---
 title: "Dunwich Dynamo XX"
-date: 2012-07-03
+date: 03-07-2012
 categories: 
   - "adventure"
   - "journeys"

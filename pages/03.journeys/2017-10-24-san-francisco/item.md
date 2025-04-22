@@ -1,6 +1,6 @@
 ---
 title: "San Francisco"
-date: 2017-10-24
+date: 24-10-2017
 categories: 
   - "journeys"
 hero_image: "DropboxChooserAPI_2016-11-07-at-17-24-39-scaled.jpg"

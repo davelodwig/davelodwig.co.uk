@@ -1,6 +1,6 @@
 ---
 title: "Light at the end of the tunnel"
-date: 2015-04-04
+date: 04-04-2015
 categories: 
   - "lifeblog"
 hero_image: "DSCF1258-scaled.jpg"

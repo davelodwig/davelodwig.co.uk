@@ -1,6 +1,6 @@
 ---
 title: "Wedding Plans"
-date: 2015-01-20
+date: 20-01-2015
 categories: 
   - "lifeblog"
 hero_image: "2015-01-18-09.59.26.jpg"

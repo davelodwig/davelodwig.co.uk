@@ -1,6 +1,6 @@
 ---
 title: "The Last Train"
-date: 2017-01-18
+date: 18-01-2017
 categories: 
   - "photographs"
 hero_image: DSCF0439-scaled.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Stroud to Cirencester (and back)"
-date: 2014-08-25
+date: 25-08-2014
 categories: 
   - "adventure"
   - "journeys"

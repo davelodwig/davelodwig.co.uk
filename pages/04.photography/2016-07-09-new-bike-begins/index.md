@@ -1,6 +1,6 @@
 ---
 title: "The New Bike Begins"
-date: 2016-07-09
+date: 09-07-2016
 categories: 
   - "photographs"
 hero_image: "2016-07-09-20.09.24-scaled.jpg"

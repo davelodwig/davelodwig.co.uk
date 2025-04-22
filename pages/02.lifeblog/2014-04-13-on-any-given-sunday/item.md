@@ -1,6 +1,6 @@
 ---
 title: "On any given Sunday"
-date: 2014-04-13
+date: 13-04-2014
 categories: 
   - "lifeblog"
 hero_image: "wpid-wp-1397397794987-900x6751.jpeg"

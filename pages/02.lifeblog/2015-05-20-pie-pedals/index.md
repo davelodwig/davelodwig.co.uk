@@ -1,6 +1,6 @@
 ---
 title: "Pie & Pedals"
-date: 2015-05-20
+date: 20-05-2015
 categories: 
   - "adventure"
 hero_image: "2015-05-19-at-19-53-57-scaled.jpg"

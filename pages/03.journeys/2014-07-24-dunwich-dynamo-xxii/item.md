@@ -1,6 +1,6 @@
 ---
 title: "Dunwich Dynamo XXII"
-date: 2014-07-24
+date: 24-07-2014
 categories: 
   - "adventure"
   - "journeys"

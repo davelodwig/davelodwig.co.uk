@@ -1,6 +1,6 @@
 ---
 title: "Lundy II"
-date: 2020-02-25
+date: 25-02-2020
 categories: 
   - "journeys"
 hero_image: "2017-04-08-at-14-14-46-scaled.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Lundy"
-date: 2015-07-28
+date: 28-07-2015
 categories: 
   - "journeys"
   - "lifeblog"

@@ -1,6 +1,6 @@
 ---
 title: "On Adventure and Silver Awards"
-date: 2014-04-20
+date: 20-04-2014
 categories: 
   - "scouting"
 ---

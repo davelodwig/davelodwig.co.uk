@@ -1,6 +1,6 @@
 ---
 title: "Solihull County Camp 2014"
-date: 2014-01-22
+date: 22-01-2014
 categories: 
   - "scouting"
 ---

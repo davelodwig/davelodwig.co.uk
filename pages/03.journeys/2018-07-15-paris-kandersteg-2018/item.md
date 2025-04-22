@@ -1,5 +1,6 @@
 ---
 title: "Paris & Kandersteg 2018"
+date: 15-07-2018
 categories: 
   - "journeys"
 hero_image: "DSCF0286-scaled.jpg"

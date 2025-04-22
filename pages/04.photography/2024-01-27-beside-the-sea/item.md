@@ -1,6 +1,6 @@
 ---
 title: "Beside the sea"
-date: 2024-01-27
+date: 27-01-2024
 taxonomy:
   category: ['blog', 'photographs']
 hero_image: "000213040003-scaled.jpg"

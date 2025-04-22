@@ -1,6 +1,6 @@
 ---
 title: "The Cotswold Show"
-date: 2016-07-03
+date: 03-07-2016
 categories: 
   - "lifeblog"
 coverImage: "DSCF0160-scaled.jpg"
