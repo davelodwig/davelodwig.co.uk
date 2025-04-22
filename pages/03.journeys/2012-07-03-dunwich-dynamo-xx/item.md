@@ -4,7 +4,7 @@ date: 2012-07-03
 categories: 
   - "adventure"
   - "journeys"
-coverImage: "2012-07-01-07.41.48.jpg"
+hero_image: "2012-07-01-07.41.48.jpg"
 ---
 
 _This was my first attempt at a mass participation ride, and my first completion of a long distance ride (the other attempt was a badly thought out attempt to ride to Aberystwyth from Birmingham on an overloaded Brompton overnight)_

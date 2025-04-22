@@ -11,9 +11,9 @@ This has it's drawbacks like when the Mayor thanked all the people on my list to
 
 But I thought it'd be nice to publish the transcript from the Chief Scout's Silver Awards presentations, a talk I gave on having an adventure.
 
-> Itâ€™s been around 12 months since I stood here last congratulating the Chief Scoutâ€™s Silver award holders sat right where you are currently sat and like then Iâ€™m going to ask you to do the same thing I asked them.
+> It's been around 12 months since I stood here last congratulating the Chief Scoutâ€™s Silver award holders sat right where you are currently sat and like then Iâ€™m going to ask you to do the same thing I asked them.
 > 
-> Iâ€™m going to ask you to have an adventure.
+> I'm going to ask you to have an adventure.
 > 
 > In these modern times itâ€™s far too easy to watch our heroes on TV and to pitch ourselves in feats of courage on a computer screen, or disappear in a world of cute cat pictures on Facebook.
 > 
@@ -37,10 +37,10 @@ But I thought it'd be nice to publish the transcript from the Chief Scout's Silv
 > 
 > Secondly we need to thank your parents, guardians, and families who have also supported you, dropped you off at meetings and taken you to your camps.
 > 
-> Iâ€™d like to leave you with one more thing taken from the book Peter Pan by JM Barrie. The scene is set in chapter 4 and the children have just arrived in never land and are flying with our hero Peter Pan.
+> I'd like to leave you with one more thing taken from the book Peter Pan by JM Barrie. The scene is set in chapter 4 and the children have just arrived in never land and are flying with our hero Peter Pan.
 > 
-> â€œWould you like an adventure now, Peter said casually to John, or would you like to have your tea first?â€
+> Would you like an adventure now, Peter said casually to John, or would you like to have your tea first?â€
 > 
-> Ladies and gentlemenâ€¦ choose adventure, the tea can wait.
+> Ladies and gentlemen choose adventure, the tea can wait.
 > 
 > Thank you.

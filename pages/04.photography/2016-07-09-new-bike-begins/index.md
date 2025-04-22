@@ -3,7 +3,7 @@ title: "The New Bike Begins"
 date: 2016-07-09
 categories: 
   - "photographs"
-coverImage: "2016-07-09-20.09.24-scaled.jpg"
+hero_image: "2016-07-09-20.09.24-scaled.jpg"
 ---
 
 A dive in the bits box and a few new bits and a lighter commuter bike starts to come together.

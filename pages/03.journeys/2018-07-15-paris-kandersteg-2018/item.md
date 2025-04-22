@@ -2,8 +2,8 @@
 title: "Paris & Kandersteg 2018"
 categories: 
   - "journeys"
-coverImage: "DSCF0286-scaled.jpg"
-draft: true
+hero_image: "DSCF0286-scaled.jpg"
+published: false
 ---
 
 ## Friday 29th June 2018

@@ -4,7 +4,7 @@ date: 2014-08-25
 categories: 
   - "adventure"
   - "journeys"
-coverImage: "DSC00152.jpg"
+hero_image: "DSC00152.jpg"
 ---
 
 We had been planning on being staff at a [@girlguiding](https://twitter.com/Girlguiding) event called Wellies and Wristbands for a long time however we realised we'd forgotten to send off our forms and camp fees and had therefore accidentally cancelled our booking. This news left us with a free bank holiday weekend in which to entertain ourselves.
