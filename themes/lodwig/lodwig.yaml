@@ -1,0 +1,10 @@
+enabled: true
+current_preset: default
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+         - 'user://themes/lodwig'
+         - 'user://themes/twentyfifteen'
