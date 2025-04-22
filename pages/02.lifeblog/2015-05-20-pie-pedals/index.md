@@ -3,10 +3,12 @@ title: "Pie & Pedals"
 date: 2015-05-20
 categories: 
   - "adventure"
-coverImage: "2015-05-19-at-19-53-57-scaled.jpg"
+hero_image: "2015-05-19-at-19-53-57-scaled.jpg"
 ---
 
 Tim from [#yacf](http://www.yacf.co.uk) was visiting Coventry with work this week so a meeting and ride of forum members from the West Midlands was arranged. In attendance was myself, Tim Hall, Kim, Basil, and AWL.  Meeting up at Berkwell station we prepared to head off to see the [Anthony Gormley](http://www.landmarktrust.org.uk/news-and-events/50th-anniversary/land/) statue in Lowsonford, very quickly a route was concocted and we were off.
+
+===
 
 It's a bit up and down around Warwickshire so I was wondering the sense of bringing the single speed but as it's the only bike I've got in Birmingham at the moment it'll do. Remarkably pedalling up and down Brays road every day seems to have improved my hill climbing ability so all was good in the end.
 

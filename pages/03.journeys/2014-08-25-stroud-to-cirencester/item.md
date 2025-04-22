@@ -13,6 +13,8 @@ Mary's mum had suggested she might like to visit and buy Mary's birthday present
 
 So at 8.30 on Sunday morning we trundled off towards route 45 of the national cycle network, and ultimately our campsite. I should point out that route 45 is quite good, for a start the off road parts are mostly tarmaced wide and fast they are however littered with stupid barriers that mean you have to get off the bike and in once place carry it down stairs. But half an hour after we departed we were through Nailsworth and onto the country roads.
 
+===
+
 ![Country Roads](images/DSC00148-760x570.jpg)
 
 There was a lot of climbing as we left Nailsworth as we winched ourselves up out of the valley towardsÂ Minchinhampton this was the only major summit though there was a lot of going up and down. Twisting up the hills at barely over walking pace I was thankful that I had replaced the chain the day before, soon enough I would be glad I had replaced the brake pads.

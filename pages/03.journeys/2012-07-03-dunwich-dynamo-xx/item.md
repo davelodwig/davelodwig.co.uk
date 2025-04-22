@@ -13,6 +13,8 @@ Having bought a lovely Thorn touring bike with the sole purpose of doing somethi
 
 There was no backing out, I was flipping well doing it.
 
+===
+
 ![](images/2012-06-29-20.35.52-900x600.jpg "2012-06-29 20.35.52")
 
 It was on a mild Saturday afternoon that I was taken from some really lovely accomodation, (in really posh sheds) at the Lion Inn at Theberton and deposited onto a train at Saxmundham with tickets, supplies, tools and a bike. So it appeared had quite a few people. I panic’d slightly about getting on, the conductor did not, over the short run to Ipswitch he put bikes in almost every space on the train.

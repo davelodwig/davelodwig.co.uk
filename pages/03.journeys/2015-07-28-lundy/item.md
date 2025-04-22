@@ -13,6 +13,8 @@ Lundy is a granite rock with the Bristol channel on one side and the Atlantic on
 
 The Landmark Trust, have renovated 23 properties as self catering accommodation, as well as the tavern, the shop, and quarters for the staff and farmers. Transport to the island is either by boat or by helicopter and everything arrives or leaves by one of these two methods. We decided we’d very much like to spend a few days on the island where peak population is about 90 people,Â the power goes off at midnight, and mobile phone signal is unheard of.
 
+===
+
 ### Monday
 
 Having packed the night before we caught a lift with Jeremy into Princes Risborough to catch a train to London, the platform was packed as the proceeding train was running late. Rather than wait for ours we jumped on when it arrived and found a space amongst the bustle.

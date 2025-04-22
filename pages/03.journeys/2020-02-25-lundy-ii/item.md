@@ -8,6 +8,8 @@ hero_image: "2017-04-08-at-14-14-46-scaled.jpg"
 
 When we visited Lundy for our honeymoon in 2015, we didn't think we be returning to the island for quite a long time. But due to a logistics issue with a planned trip to Scotland, we found ourselves heading back, but this time with a tent. We had originally planned on touring the Scottish small isles on our tandem but that plan required a larger car to transport it, and as we had started to buy a house I had held off car purchases. So with a week of annual leave coming up we browsed the Landmark trust site and booked a trip to Lundy to stay at the campsite.
 
+===
+
 ## Friday 7th April 2017
 
 We departed home just after 1pm heading down the M5 through Bristol. It was a hot day and after about 2 hours the Micra started playing up, loosing power and struggling generally. We managed to limp off the motorway and found a garage who tried to diagnose the fault but found ourselves needing a Nissan dealer with the right computer. Eventually we limped around the corner to an Asda car park and called the RAC, upset that our holiday was over so soon. The RAC it seems however have a team for arranging onward travel so a deal was struck whereby the Micra went home on a transporter and we went on to Ilfracombe in a taxi.

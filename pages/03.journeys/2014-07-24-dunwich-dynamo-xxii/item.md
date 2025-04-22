@@ -9,6 +9,8 @@ coverImage: "1653485_10152278142497684_1288701003792201823_n.jpg"
 
 It started last year with a few tentative inquiries about borrowing a tandem, and then one came up on YACF and had been up for sale for a while, it seemed to me an omen. Yes I will own a green touring tandem and I will have a silly adventure(s) on it. With only a 40 mile day ride on the bike I was a bit worried about our capabilities as a tandem team but none the less this was something we wanted to do and so preparations began.
 
+===
+
 I had a not so short list of jobs to do, sorting lighting out, checking the brakes and such and yet on that sunny Saturday morning their were still things that needed attention. We packed up what we thought we might need hoping to use just two panniers on the back but it quickly became apparent that we would need to use the front ones as well and so moments before departure I moved the low riders from my solo bike to the tandem.
 
 With all the frantic actions of the morning slipping into the past we pedaled out into the sunshine of Stroud to catch the train to London. The bike handled well and the steering felt positive I was quietly confident we'd achieve our goal and that the rain that had been promised would not materialise.

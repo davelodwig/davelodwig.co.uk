@@ -8,6 +8,8 @@ coverImage: "DSCF0160-scaled.jpg"
 
 We've not managed to get to the Cotswold country show before as it's usually taking place when we are away elsewhere, but with a free Sunday for once we headed over to the Bathurst Estate to take in the sights. Understandably I spent the most time in the rare breeds tent.
 
+===
+
 ![DSCF0151](images/DSCF0151-760x570.jpg)
 
 Meercats enjoying the sunshine.
