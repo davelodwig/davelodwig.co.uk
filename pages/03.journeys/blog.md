@@ -1,5 +1,6 @@
 ---
 title: "Journeys"
+slug: journeys
 content:
   items: '@self.children'
   order:

@@ -8,9 +8,9 @@ hero_image: "DropboxChooserAPI_2016-11-07-at-17-24-39-scaled.jpg"
 
 > It took me a really long time (almost a year) to finish this post. I'm not sure why but because of that I'm sure i've missed off some of the details. However if you get the chance you should visit San Francisco it's a really beautiful place.
 
-Our friend Charlie lives in San Francisco, and they had very kindly extended a welcome and a place to stay to us should we wish to fly transatlantic and visit them. So we made plans to fly to San Francisco and then return overland using trains and exciting visits to places all over America. Eventually we realised we didn't have enough holiday so after some deliberation decided we'd fly out and spend a week in San Francisco with Charlie and I booked some plane tickets before we could change our minds. It's worth pointing out that I really don't like flying, as in would rather swim the atlantic but I'm told it's a long way so I hitched up my big boy pants and got on the plane.
-
 ===
+
+Our friend Charlie lives in San Francisco, and they had very kindly extended a welcome and a place to stay to us should we wish to fly transatlantic and visit them. So we made plans to fly to San Francisco and then return overland using trains and exciting visits to places all over America. Eventually we realised we didn't have enough holiday so after some deliberation decided we'd fly out and spend a week in San Francisco with Charlie and I booked some plane tickets before we could change our minds. It's worth pointing out that I really don't like flying, as in would rather swim the atlantic but I'm told it's a long way so I hitched up my big boy pants and got on the plane.
 
 ## Day 1 - Thursday 3rd November 2016
 

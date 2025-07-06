@@ -1,5 +1,6 @@
 ---
 title: "Life Blog"
+slug: lifeblog
 content:
   items: '@self.children'
   order:

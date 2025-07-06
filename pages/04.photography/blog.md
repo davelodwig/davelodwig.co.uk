@@ -1,5 +1,6 @@
 ---
 title: "Photography"
+slug: photography
 content:
   items: '@self.children'
   order:
